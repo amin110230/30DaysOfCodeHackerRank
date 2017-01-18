@@ -1,0 +1,2 @@
+Day12Inheritance.Person
+Day12Inheritance.Student

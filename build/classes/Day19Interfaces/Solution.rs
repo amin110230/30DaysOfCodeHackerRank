@@ -1,0 +1,3 @@
+Day19Interfaces.Solution
+Day19Interfaces.AdvancedArithmetic
+Day19Interfaces.Calculator
